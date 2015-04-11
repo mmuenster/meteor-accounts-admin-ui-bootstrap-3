@@ -5,6 +5,7 @@ Package.describe({
   version: "0.3.0",
   git: "https://github.com/mmuenster/meteor-accounts-admin-ui-bootstrap-3.git",
   name: 'mmuenster:accounts-admin-ui'
+ });
 
 Package.onUse(function (api) {
   api.versionsFrom("METEOR@1.0");
